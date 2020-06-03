@@ -9,3 +9,5 @@ PS C:\Users\Administrator\Desktop\src> & C:/ProgramData/Anaconda3/python.exe c:/
 Start!-----------
 Scores: [75.83333333333333]
 Mean Accuracy: 75.833%
+
+红酒的品质得分为评酒师十分主观的得分，所以与红酒的各种化学成分可能相关性较弱，预测的正确率偏低。
